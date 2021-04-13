@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T06:11:29.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="wDEijm9_uKrxs2agha2o" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T06:40:18.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="WdMmeFxupaKfRcqexsoY" version="14.5.10" type="github">
   <diagram id="bhrFl_7Fz3YckQ_uN9jk" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFCCFF" math="0" shadow="0">
       <root>
@@ -28,8 +28,8 @@
         <mxCell id="WBQRIftdfCf0O3x122vo-6" value="User Filling Forms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="47" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-7" value="Upload File" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="WBQRIftdfCf0O3x122vo-7" value="Upload Resume" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WBQRIftdfCf0O3x122vo-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -50,10 +50,34 @@
           <mxGeometry x="200" y="30" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WBQRIftdfCf0O3x122vo-13" value="&lt;span style=&quot;color: rgb(29 , 28 , 29) ; font-family: , &amp;#34;applelogo&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;POST/Jobs-api/category(categoryid)/attachment&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="260" width="340" height="20" as="geometry" />
+          <mxGeometry x="255" y="160" width="340" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WBQRIftdfCf0O3x122vo-14" value="&lt;span style=&quot;color: rgb(29 , 28 , 29) ; font-family: , &amp;#34;applelogo&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;POST/Jobs-api/category(categoryid)/save&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="330" width="290" height="20" as="geometry" />
+          <mxGeometry x="10" y="380" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WBQRIftdfCf0O3x122vo-17" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="220" as="sourcePoint" />
+            <mxPoint x="480" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBQRIftdfCf0O3x122vo-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="340" as="sourcePoint" />
+            <mxPoint x="470" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBQRIftdfCf0O3x122vo-20" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="490" y="310" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WBQRIftdfCf0O3x122vo-21" value="Json&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WBQRIftdfCf0O3x122vo-22" value="json" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WBQRIftdfCf0O3x122vo-23" value="&lt;span style=&quot;color: rgb(29 , 28 , 29) ; font-family: , &amp;#34;applelogo&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;POST/Jobs-api/job(jobid)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
