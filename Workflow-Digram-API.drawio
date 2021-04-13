@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T09:25:44.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="iVc3N_rogcHybtG8SiXV" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T09:27:32.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="lsTeeP9cg33EHEJ-8JIu" version="14.5.10" type="github">
   <diagram id="bhrFl_7Fz3YckQ_uN9jk" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFCCFF" math="0" shadow="0">
       <root>
@@ -134,6 +134,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="527" as="sourcePoint" />
             <mxPoint x="700" y="614" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBQRIftdfCf0O3x122vo-38" value="Get all category" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="702" y="138" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WBQRIftdfCf0O3x122vo-39" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="WBQRIftdfCf0O3x122vo-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="547" y="304" as="sourcePoint" />
+            <mxPoint x="597" y="254" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBQRIftdfCf0O3x122vo-40" value="&lt;span style=&quot;color: rgb(29 , 28 , 29) ; font-family: , &amp;#34;applelogo&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Get/Jobs-api/category&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="110" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WBQRIftdfCf0O3x122vo-41" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="WBQRIftdfCf0O3x122vo-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="749" y="201" as="sourcePoint" />
+            <mxPoint x="449" y="303" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
