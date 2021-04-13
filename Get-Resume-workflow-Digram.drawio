@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T07:23:36.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="PYej3Gi2Rvi2xdoagEGv" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T07:29:55.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="bBuBTb5wq4ZBkpbloNgO" version="14.5.10" type="github">
   <diagram id="xMS9d9wwtkec2P2PHVaz" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFCCFF" math="0" shadow="0">
       <root>
@@ -41,13 +41,19 @@
           <mxGeometry x="195" y="10" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7Aq2TeMq4lBU1DFnSlIl-11" value="Templates of resumes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="100" width="150" height="60" as="geometry" />
+          <mxGeometry x="490" y="100" width="150" height="170" as="geometry" />
         </mxCell>
         <mxCell id="7Aq2TeMq4lBU1DFnSlIl-12" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7Aq2TeMq4lBU1DFnSlIl-7" target="7Aq2TeMq4lBU1DFnSlIl-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="310" as="sourcePoint" />
             <mxPoint x="450" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7Aq2TeMq4lBU1DFnSlIl-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/brands-applications/512/Doc_B-128.png" vertex="1" parent="1">
+          <mxGeometry x="520" y="210" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7Aq2TeMq4lBU1DFnSlIl-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Pdf_File_Type_Adobe_logo_logos-128.png" vertex="1" parent="1">
+          <mxGeometry x="560" y="212" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
