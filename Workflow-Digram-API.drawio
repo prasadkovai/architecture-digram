@@ -1,163 +1,163 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T09:28:54.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="F5xtdsVKRU-BVEEY4WK7" version="14.5.10" type="github">
-  <diagram id="bhrFl_7Fz3YckQ_uN9jk" name="Page-1">
-    <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFCCFF" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="WBQRIftdfCf0O3x122vo-1" value="Select Job Category" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="20" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-2" value="Create Job" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="47" y="90" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WBQRIftdfCf0O3x122vo-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="320" as="sourcePoint" />
-            <mxPoint x="110" y="90" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-4" value="User Selection Options&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="47" y="170" width="117" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-5" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="105" y="130" as="sourcePoint" />
-            <mxPoint x="106" y="174" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-6" value="User Filling Forms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="47" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-7" value="Upload Resume" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="164" y="219.5" as="sourcePoint" />
-            <mxPoint x="254" y="219.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-9" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="105" y="270" as="sourcePoint" />
-            <mxPoint x="106" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-11" value="&lt;span style=&quot;color: rgb(29 , 28 , 29) ; font-family: , &amp;#34;applelogo&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;POST/Jobs-api/category(categoryid)/Jobs&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="100" width="290" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-12" value="&lt;span style=&quot;color: rgb(29 , 28 , 29) ; font-family: , &amp;#34;applelogo&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;POST/Jobs-api/category&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="30" width="180" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-13" value="&lt;span style=&quot;color: rgb(29 , 28 , 29) ; font-family: , &amp;#34;applelogo&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;POST/Jobs-api/category(categoryid)/attachment&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="255" y="160" width="340" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-14" value="&lt;span style=&quot;color: rgb(29 , 28 , 29) ; font-family: , &amp;#34;applelogo&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;POST/Jobs-api/category(categoryid)/save&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="380" width="290" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-17" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="220" as="sourcePoint" />
-            <mxPoint x="480" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="340" as="sourcePoint" />
-            <mxPoint x="470" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-20" value="Dynamo&lt;br&gt;DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="480" y="320" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-21" value="Json&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="340" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-22" value="json" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="390" y="260" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-23" value="&lt;span style=&quot;color: rgb(29 , 28 , 29) ; font-family: , &amp;#34;applelogo&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;POST/Jobs-api/job(jobid)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="415" width="180" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-24" value="Get Jobs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="657" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-25" value="Templates of resumes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="642" y="432" width="150" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/brands-applications/512/Doc_B-128.png" vertex="1" parent="1">
-          <mxGeometry x="690" y="497" width="34" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Pdf_File_Type_Adobe_logo_logos-128.png" vertex="1" parent="1">
-          <mxGeometry x="747" y="497" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-28" value="&lt;span style=&quot;color: rgb(29 , 28 , 29) ; font-family: , &amp;#34;applelogo&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;POST/Jobs-api/category(categoryid)/Jobs&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="608" y="390" width="290" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-29" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBQRIftdfCf0O3x122vo-20" target="WBQRIftdfCf0O3x122vo-24">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="180" as="sourcePoint" />
-            <mxPoint x="329.20000000000005" y="93.41999999999996" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-30" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBQRIftdfCf0O3x122vo-24" target="WBQRIftdfCf0O3x122vo-25">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="60" as="sourcePoint" />
-            <mxPoint x="526.6004415011037" y="138.6975717439293" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-31" value="Resume" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="638" y="777" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-32" value="User selection" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="648" y="607" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-33" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBQRIftdfCf0O3x122vo-32" target="WBQRIftdfCf0O3x122vo-31">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="538" y="597" as="sourcePoint" />
-            <mxPoint x="588" y="547" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-34" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WBQRIftdfCf0O3x122vo-32">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="538" y="597" as="sourcePoint" />
-            <mxPoint x="758" y="775" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-35" value="View" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="608" y="697" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-36" value="download" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="728" y="697" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-37" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.389;exitY=1.053;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WBQRIftdfCf0O3x122vo-25">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="527" as="sourcePoint" />
-            <mxPoint x="700" y="614" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-38" value="Get all category" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="702" y="138" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-39" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="WBQRIftdfCf0O3x122vo-38">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="547" y="304" as="sourcePoint" />
-            <mxPoint x="597" y="254" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-40" value="&lt;span style=&quot;color: rgb(29 , 28 , 29) ; font-family: , &amp;#34;applelogo&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Get/Jobs-api/category&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="675" y="110" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-41" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="WBQRIftdfCf0O3x122vo-24">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="749" y="201" as="sourcePoint" />
-            <mxPoint x="449" y="303" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WBQRIftdfCf0O3x122vo-42" value="API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="601" y="232" width="29" height="18" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile>
+    <diagram id="bhrFl_7Fz3YckQ_uN9jk" name="Page-1">
+        <mxGraphModel dx="820" dy="493" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFCCFF" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="WBQRIftdfCf0O3x122vo-1" value="Select Job Category" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#000000;labelBorderColor=none;strokeColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="20" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-2" value="Create Job" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="47" y="90" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" parent="1" source="WBQRIftdfCf0O3x122vo-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="320" as="sourcePoint"/>
+                        <mxPoint x="110" y="90" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-4" value="User Selection Options&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="47" y="170" width="117" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-5" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="105" y="130" as="sourcePoint"/>
+                        <mxPoint x="106" y="174" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-6" value="User Filling Forms" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="47" y="310" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-7" value="Upload Resume" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-8" value="" style="endArrow=classic;html=1;strokeColor=#000000;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="164" y="219.5" as="sourcePoint"/>
+                        <mxPoint x="254" y="219.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-9" value="" style="endArrow=classic;html=1;strokeColor=#000000;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="105" y="270" as="sourcePoint"/>
+                        <mxPoint x="106" y="310" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-11" value="&lt;span style=&quot;color: rgb(29 , 28 , 29) ; font-family: , &amp;#34;applelogo&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;POST/Jobs-api/category(categoryid)/Jobs&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="100" width="290" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-12" value="&lt;span style=&quot;color: rgb(29 , 28 , 29) ; font-family: , &amp;#34;applelogo&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;POST/Jobs-api/category&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="30" width="180" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-13" value="&lt;span style=&quot;color: rgb(29 , 28 , 29) ; font-family: , &amp;#34;applelogo&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;POST/Jobs-api/category(categoryid)/attachment&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="255" y="160" width="340" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-14" value="&lt;span style=&quot;color: rgb(29 , 28 , 29) ; font-family: , &amp;#34;applelogo&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;POST/Jobs-api/category(categoryid)/save&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="380" width="290" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-17" value="" style="endArrow=classic;html=1;strokeColor=#000000;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="380" y="220" as="sourcePoint"/>
+                        <mxPoint x="480" y="310" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-18" value="" style="endArrow=classic;html=1;strokeColor=#000000;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="170" y="340" as="sourcePoint"/>
+                        <mxPoint x="470" y="340" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-20" value="Dynamo&lt;br&gt;DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontColor=#000000;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="320" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-21" value="Json&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="340" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-22" value="json" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="260" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-23" value="&lt;span style=&quot;color: rgb(29 , 28 , 29) ; font-family: , &amp;#34;applelogo&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;POST/Jobs-api/job(jobid)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="415" width="180" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-24" value="Get Jobs" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="657" y="320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-25" value="Templates of resumes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#000000;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="642" y="432" width="150" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/brands-applications/512/Doc_B-128.png" parent="1" vertex="1">
+                    <mxGeometry x="690" y="497" width="34" height="34" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Pdf_File_Type_Adobe_logo_logos-128.png" parent="1" vertex="1">
+                    <mxGeometry x="747" y="497" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-28" value="&lt;span style=&quot;color: rgb(29 , 28 , 29) ; font-family: , &amp;#34;applelogo&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;POST/Jobs-api/category(categoryid)/Jobs&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="608" y="390" width="290" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-29" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="WBQRIftdfCf0O3x122vo-20" target="WBQRIftdfCf0O3x122vo-24" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="330" y="180" as="sourcePoint"/>
+                        <mxPoint x="329.20000000000005" y="93.41999999999996" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-30" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="WBQRIftdfCf0O3x122vo-24" target="WBQRIftdfCf0O3x122vo-25" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="60" as="sourcePoint"/>
+                        <mxPoint x="526.6004415011037" y="138.6975717439293" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-31" value="Resume" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="638" y="777" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-32" value="User selection" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="648" y="607" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-33" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="WBQRIftdfCf0O3x122vo-32" target="WBQRIftdfCf0O3x122vo-31" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="538" y="597" as="sourcePoint"/>
+                        <mxPoint x="588" y="547" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-34" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" parent="1" source="WBQRIftdfCf0O3x122vo-32" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="538" y="597" as="sourcePoint"/>
+                        <mxPoint x="758" y="775" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-35" value="View" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=90;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="608" y="697" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-36" value="download" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=90;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="728" y="697" width="70" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-37" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.389;exitY=1.053;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;" parent="1" source="WBQRIftdfCf0O3x122vo-25" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="700" y="527" as="sourcePoint"/>
+                        <mxPoint x="700" y="614" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-38" value="Get all category" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="702" y="138" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-39" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" target="WBQRIftdfCf0O3x122vo-38" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="547" y="304" as="sourcePoint"/>
+                        <mxPoint x="597" y="254" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-40" value="&lt;span style=&quot;color: rgb(29 , 28 , 29) ; font-family: , &amp;#34;applelogo&amp;#34; , sans-serif ; font-size: 15px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Get/Jobs-api/category&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="675" y="110" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-41" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" target="WBQRIftdfCf0O3x122vo-24" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="749" y="201" as="sourcePoint"/>
+                        <mxPoint x="449" y="303" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WBQRIftdfCf0O3x122vo-42" value="API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="601" y="232" width="29" height="18" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
 </mxfile>
